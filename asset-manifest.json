@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/zenhairshop/static/css/main.b75e00db.chunk.css",
+    "main.js": "/zenhairshop/static/js/main.f5f5477f.chunk.js",
+    "main.js.map": "/zenhairshop/static/js/main.f5f5477f.chunk.js.map",
+    "runtime-main.js": "/zenhairshop/static/js/runtime-main.b25858e2.js",
+    "runtime-main.js.map": "/zenhairshop/static/js/runtime-main.b25858e2.js.map",
+    "static/css/2.7edfe34c.chunk.css": "/zenhairshop/static/css/2.7edfe34c.chunk.css",
+    "static/js/2.4f96f285.chunk.js": "/zenhairshop/static/js/2.4f96f285.chunk.js",
+    "static/js/2.4f96f285.chunk.js.map": "/zenhairshop/static/js/2.4f96f285.chunk.js.map",
+    "index.html": "/zenhairshop/index.html",
+    "precache-manifest.336288c2121a36ef06dcd181281bd3f5.js": "/zenhairshop/precache-manifest.336288c2121a36ef06dcd181281bd3f5.js",
+    "service-worker.js": "/zenhairshop/service-worker.js",
+    "static/css/2.7edfe34c.chunk.css.map": "/zenhairshop/static/css/2.7edfe34c.chunk.css.map",
+    "static/css/main.b75e00db.chunk.css.map": "/zenhairshop/static/css/main.b75e00db.chunk.css.map",
+    "static/js/2.4f96f285.chunk.js.LICENSE.txt": "/zenhairshop/static/js/2.4f96f285.chunk.js.LICENSE.txt",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/zenhairshop/static/media/Quicksand-VariableFont_wght.f9baef8a.ttf",
+    "static/media/en.png": "/zenhairshop/static/media/en.1a427fce.png",
+    "static/media/girl.png": "/zenhairshop/static/media/girl.1a42036e.png",
+    "static/media/girl2.png": "/zenhairshop/static/media/girl2.43498ef8.png",
+    "static/media/logo.png": "/zenhairshop/static/media/logo.19dacf63.png",
+    "static/media/styles.css": "/zenhairshop/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25858e2.js",
+    "static/css/2.7edfe34c.chunk.css",
+    "static/js/2.4f96f285.chunk.js",
+    "static/css/main.b75e00db.chunk.css",
+    "static/js/main.f5f5477f.chunk.js"
+  ]
+}
