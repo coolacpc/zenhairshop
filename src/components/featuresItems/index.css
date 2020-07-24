@@ -1,0 +1,10 @@
+.color_guider .MuiPaper-elevation1{
+    box-shadow: none !important;
+}
+.color_guider .MuiPaper-root{
+    background-color: transparent !important;
+}
+.img-hover:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}

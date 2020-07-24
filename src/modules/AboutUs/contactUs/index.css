@@ -1,0 +1,11 @@
+.contact-us .MuiPaper-elevation1{
+    box-shadow: none !important;
+}
+.contact-us .MuiPaper-root{
+    background-color: transparent !important;
+}
+.map{
+    position: absolute !important;
+    width: 80% !important;
+    height:320px !important;
+}
