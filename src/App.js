@@ -8,25 +8,6 @@ import { BrowserRouter as Router } from "react-router-dom";
 import axios from "axios";
 
 
-class App extends React.Component{
-  constructor(props){
-    super(props);
-    this.state = {apiResponse: ""}
-  }
-
-  callAPI(){
-    fetch("http://localhost:9000/testAPI")
-    .then(res => res.text())
-    .then(res => this.useState({ apiResponse: res }));
-  }
-
-
-  componentWillMount(){
-    this.callAPI();
-  }
-}
-
-
 function AppCurrency() {
   const [currentUserCountry, setCurrentUserCountry] = React.useState("");
 
