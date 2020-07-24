@@ -23,7 +23,7 @@ import "../../../App.css";
 import WishListModel from "./wishListModel";
 
 const AR =
-  "https://upload.wikimedia.org/wikipedia/commons/2/2b/Flag_of_the_Arab_League.svg";
+  "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-400.png";
 
 function MyAppBar(props) {
   const classes = useStyles();
@@ -73,7 +73,7 @@ function MyAppBar(props) {
                       {
                         title: "SAR",
                         img:
-                          "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
+                          "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-400.png",
                       },
                       {
                         title: "USD",

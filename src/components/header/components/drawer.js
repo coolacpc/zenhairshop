@@ -87,7 +87,7 @@ const MyDrawer = React.memo((props) => {
               {
                 title: "SAR",
                 img:
-                  "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
+                  "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-400.png",
               },
               {
                 title: "USD",
