@@ -26,7 +26,7 @@ export default function Footer() {
           various colors.
         </Typography>
         <Typography className={classes.icons}>
-          <FacebookIcon  />
+          <FacebookIcon />
           <YouTubeIcon style={{marginLeft: '4px'}}/>
           <InstagramIcon style={{marginLeft: '4px'}}/>
         </Typography>

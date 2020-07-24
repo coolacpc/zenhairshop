@@ -48,7 +48,7 @@ export default memo((props) => {
             <ListItemText
               className={classes.textColor}
               primary="Available more than 20 colors; from jet black toshades of
-brown and blonde, ombre, highlights and pastel colors."
+brown and blonde, ombré, highlights and pastel colors."
             />
           </ListItem>
 
